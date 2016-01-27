@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CarManager</string>
+    <string name="Sincronizar">Sincronizar com WS</string>
+    <string name="addcar">Adicionar carro</string>
 </resources>

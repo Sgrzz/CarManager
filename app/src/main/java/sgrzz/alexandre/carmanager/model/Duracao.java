@@ -20,4 +20,5 @@ public class Duracao {
     public int getQuantidade() {
         return quantidade;
     }
+
 }

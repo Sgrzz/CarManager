@@ -108,4 +108,7 @@ public class Operacao {
     public void setRepetida(boolean repetida) {
         this.repetida = repetida;
     }
+
+
+
 }
